@@ -1,1 +1,1 @@
-# NLP Using Python
+# Python for everybody
